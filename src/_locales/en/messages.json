@@ -1,0 +1,56 @@
+{
+	"extensionName": {
+		"message": "Easy Map"
+	},
+	"extensionDescription": {
+		"message": "Yandex Maps API based chromium extension."
+	},
+	
+	"uiSearchBox": {
+		"message": "Search for places and addresses"
+	},
+
+	"uiSettingsUseDefaultLoc": {
+		"message": "Use starting coordinates of the center of the map"
+	},
+	
+	"uiSettingsDefaultLatitude": {
+		"message": "Latitude"
+	},
+	
+	"uiSettingsDefaultLongitude": {
+		"message": "Longitude"
+	},
+	
+	"uiSettingsUseDefaultZoom": {
+		"message": "Scale calibration"
+	},
+	
+	"uiSettingsDefaultZoomValue": {
+		"message": "Map scale (1 - 19)"
+	},
+	
+	"uiSettingsUseFilters": {
+		"message": "Use filters"
+	},
+	
+	"uiSettingsFiltersGrayscale": {
+		"message": "Grayscale (0% - 100%)"
+	},
+	
+	"uiSettingsFiltersInvert": {
+		"message": "Invert (0% - 100%)"
+	},
+	
+	"uiSettingsAboutProject": {
+		"message": "About project"
+	},
+	
+	"contextSearchOnMap": {
+		"message": "Search on Yandex Maps"
+	},
+	
+	"contextResetSettings": {
+		"message": "Reset settings"
+	}
+}

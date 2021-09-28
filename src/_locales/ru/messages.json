@@ -1,0 +1,56 @@
+{
+	"extensionName": {
+		"message": "Easy Map"
+	},
+	"extensionDescription": {
+		"message": "Расширение добавляющее в браузер на основе chromium возможность просматривать Яндекс Карты."
+	},
+	
+	"uiSearchBox": {
+		"message": "Поиск мест и адресов"
+	},
+
+	"uiSettingsUseDefaultLoc": {
+		"message": "Использовать начальные координаты центра карты"
+	},
+	
+	"uiSettingsDefaultLatitude": {
+		"message": "Широта"
+	},
+	
+	"uiSettingsDefaultLongitude": {
+		"message": "Долгота"
+	},
+	
+	"uiSettingsUseDefaultZoom": {
+		"message": "Калибровка масштаба"
+	},
+	
+	"uiSettingsDefaultZoomValue": {
+		"message": "Масштаб карты (1 - 19)"
+	},
+	
+	"uiSettingsUseFilters": {
+		"message": "Использовать фильтры"
+	},
+	
+	"uiSettingsFiltersGrayscale": {
+		"message": "Оттенки серого (0% - 100%)"
+	},
+	
+	"uiSettingsFiltersInvert": {
+		"message": "Инверсия цветов (0% - 100%)"
+	},
+	
+	"uiSettingsAboutProject": {
+		"message": "О проекте"
+	},
+	
+	"contextSearchOnMap": {
+		"message": "Искать на Яндекс Картах"
+	},
+	
+	"contextResetSettings": {
+		"message": "Сбросить настройки"
+	}
+}
