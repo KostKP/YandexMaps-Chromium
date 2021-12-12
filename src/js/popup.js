@@ -1,4 +1,4 @@
-var baseURL = 'https://yandex.ru/map-widget/v2/?';
+var baseURL = 'https://yandex.ru/map-widget/v1/?';
 
 document.addEventListener("DOMContentLoaded", function() {
 	document.getElementById('searchQuery').placeholder = chrome.i18n.getMessage("uiSearchBox");
