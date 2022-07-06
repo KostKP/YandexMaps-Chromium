@@ -13,9 +13,9 @@
 > Besides theme, there're changing of started location of map and scaling of it
 
 ### Feature
-
-> You can search text, that you've highlighted with context menu of your browser
 ![image](https://user-images.githubusercontent.com/78340117/177610036-8b494bb2-fbf2-4f8f-ade6-cb240c1ff13a.png)
+> You can search text, that you've highlighted with context menu of your browser
+
 
 
 ### Usually the application is installed in the following order:
